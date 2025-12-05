@@ -1,0 +1,4 @@
+----requirement------
+1. using python idle 
+2. using gradio module
+3. using time module
