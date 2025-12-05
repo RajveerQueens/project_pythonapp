@@ -5,14 +5,12 @@ Demo (Video / GIF / Screenshot)
 
 
 
-
 Attach demo here (image, GIF, or link).
 ________________________________________
 Problem Breakdown & Computational Thinking
 Flowchart
- 
- 
- 
+<img width="805" height="811" alt="image" src="https://github.com/user-attachments/assets/ad706861-5ca7-4c52-bf10-0de7b6c62d2a" />
+
 ________________________________________
 Computational Thinking (4 Pillars)
 •	Decomposition
