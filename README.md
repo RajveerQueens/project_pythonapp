@@ -1,11 +1,8 @@
 # project_pythonapp
 Graphical user interface for showing Binary search on List
 Binary Search in Python List (Graphical Gradio App)
-Demo (Video / GIF / Screenshot)
-
-
-
-Attach demo here (image, GIF, or link).
+Demo (Screenshot)
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4ea628c7-e0ef-4a93-b150-9c32404c9e4a" />
 ________________________________________
 Problem Breakdown & Computational Thinking
 Flowchart
