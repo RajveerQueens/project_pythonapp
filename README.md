@@ -37,9 +37,7 @@ python app.py
 Open the local Gradio URL printed in your web browser
 ________________________________________
 Hugging Face Link
-Add your Hugging Face Space link here
-Example:
-https://huggingface.co/spaces/yourname/binary-search-visualizer
+https://huggingface.co/spaces/Rajveerkalra/Project_my_app_cisc
 ________________________________________
 Author & Acknowledgments
 Author:
